@@ -1,4 +1,4 @@
-puts "What's your name?"
+puts "Who is your favorite singer"
 name = gets.chomp
 
 puts "What's your favorite channel?" 
