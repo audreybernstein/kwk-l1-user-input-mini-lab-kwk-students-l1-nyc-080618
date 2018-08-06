@@ -1,2 +1,2 @@
 puts "What's your name?"
-name = 
+name = gets.chomp
