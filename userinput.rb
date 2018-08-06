@@ -1,5 +1,5 @@
 puts "Who is your favorite singer"
-name = gets.chomp
+singer = gets.chomp
 
 puts "What's your favorite channel?" 
 channel = gets.chomp
